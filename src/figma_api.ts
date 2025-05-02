@@ -1,8 +1,7 @@
 import axios from 'axios'
 import {
+  GetPublishedVariablesResponse,
   GetLocalVariablesResponse,
-  PostVariablesRequestBody,
-  PostVariablesResponse,
 } from '@figma/rest-api-spec'
 
 export default class FigmaApi {
@@ -11,6 +10,18 @@ export default class FigmaApi {
 
   constructor(token: string) {
     this.token = token
+  }
+
+  async getPublishedVariables(fileKey: string) {
+    const resp = await axios.request<GetPublishedVariablesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/variables/published`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
   }
 
   async getLocalVariables(fileKey: string) {
