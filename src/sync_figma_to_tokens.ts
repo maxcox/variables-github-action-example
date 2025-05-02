@@ -23,7 +23,7 @@ async function main() {
   const fileKey = process.env.FILE_KEY
 
   const api = new FigmaApi(process.env.PERSONAL_ACCESS_TOKEN)
-  const publishedCollections = await api.getPublishedVariables(fileKey)
+  const publishedVariables = await api.getPublishedVariables(fileKey)
   const localVariables = await api.getLocalVariables(fileKey)
 
   const tokensFiles = tokenFilesFromLocalVariables(localVariables)
@@ -38,10 +38,11 @@ async function main() {
     fs.mkdirSync(outputDir)
   }
 
-  Object.entries(tokensFiles).forEach(([fileName, fileContent]) => {
-    fs.writeFileSync(`${outputDir}/${fileName}`, JSON.stringify(fileContent, null, 2))
-    console.log(`Wrote ${fileName}`)
-  })
+  fs.writeFileSync(`${outputDir}/tokens_published.json`, JSON.stringify(publishedVariables, null, 2))
+  console.log(`Wrote tokens_published.json`)
+
+  fs.writeFileSync(`${outputDir}/tokens_local.json`, JSON.stringify(localVariables, null, 2))
+  console.log(`Wrote tokens_local.json`)
 
   console.log(green(`✅ Tokens files have been written to the ${outputDir} directory`))
 }
