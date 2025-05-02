@@ -24,18 +24,4 @@ export default class FigmaApi {
 
     return resp.data
   }
-
-  async postVariables(fileKey: string, payload: PostVariablesRequestBody) {
-    const resp = await axios.request<PostVariablesResponse>({
-      url: `${this.baseUrl}/v1/files/${fileKey}/variables`,
-      method: 'POST',
-      headers: {
-        Accept: '*/*',
-        'X-Figma-Token': this.token,
-      },
-      data: payload,
-    })
-
-    return resp.data
-  }
 }
