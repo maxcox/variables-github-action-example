@@ -1,4 +1,4 @@
-name: Sync Figma variables to tokens
+name: Sync Figma variables and styles into json files
 on:
   workflow_dispatch:
     inputs:
@@ -29,7 +29,7 @@ jobs:
         working-directory: 'scripts/designTokens'
         run: npm install
 
-      - name: Sync variables in Figma file to tokens
+      - name: Sync variables and styles from Figma file into json files
         working-directory: 'scripts/designTokens'
         run: npm run sync-figma-to-tokens -- --output tokens
         env:
@@ -40,6 +40,6 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: Update tokens from Figma
-          title: Update tokens from Figma
-          body: 'Update tokens from Figma from file: https://www.figma.com/file/${{ github.event.inputs.file_key }}'
+          title: Update json files from Figma
+          body: 'Update json files from Figma from file: https://www.figma.com/file/${{ github.event.inputs.file_key }}'
           branch: update-tokens
