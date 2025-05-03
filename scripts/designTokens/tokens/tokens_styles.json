@@ -1,0 +1,1125 @@
+{
+    "name": "Mobile – Dev Spec",
+    "lastModified": "2025-04-28T17:19:55Z",
+    "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/b3f37683-2c7e-4a55-bbe9-02dcc8ae1a6a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCVK4PHD4J%2F20250427%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250427T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad5a51b2600efd735b779777dee644f3698899f4678ab7337957e9b247b7b78d",
+    "version": "2212119174587917913",
+    "role": "editor",
+    "editorType": "figma",
+    "linkAccess": "org_view",
+    "nodes": {
+        "84:373": {
+            "document": {
+                "id": "84:373",
+                "name": "Elevation-1",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": -1.0,
+                    "y": 0.0,
+                    "width": 102.0,
+                    "height": 102.0
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.11999999731779099
+                        },
+                        "blendMode": "NORMAL",
+                        "offset": {
+                            "x": 0.0,
+                            "y": 1.0
+                        },
+                        "radius": 1.0,
+                        "showShadowBehindNode": false
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "78:7369": {
+            "document": {
+                "id": "78:7369",
+                "name": "Elevation-3",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": -41.0,
+                    "y": -17.0,
+                    "width": 182.0,
+                    "height": 182.0
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.20000000298023224
+                        },
+                        "blendMode": "NORMAL",
+                        "offset": {
+                            "x": 0.0,
+                            "y": 24.0
+                        },
+                        "radius": 55.0,
+                        "spread": -14.0,
+                        "showShadowBehindNode": false
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "84:374": {
+            "document": {
+                "id": "84:374",
+                "name": "Elevation-2",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": -4.0,
+                    "y": 0.0,
+                    "width": 108.0,
+                    "height": 108.0
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.250
+                        },
+                        "blendMode": "NORMAL",
+                        "offset": {
+                            "x": 0.0,
+                            "y": 4.0
+                        },
+                        "radius": 4.0,
+                        "showShadowBehindNode": false
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "109:6825": {
+            "document": {
+                "id": "109:6825",
+                "name": "Body-02",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 46.0,
+                    "height": 16.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.2720000743865967,
+                    "y": 2.4559998512268066,
+                    "width": 44.080970764160156,
+                    "height": 11.088001251220703
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 12.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 16.0,
+                    "lineHeightPercent": 133.33334350585938,
+                    "lineHeightPercentFontSize": 133.33332824707031,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "14:1717": {
+            "document": {
+                "id": "14:1717",
+                "name": "Heading-04",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 77.0,
+                    "height": 24.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.8000000715255737,
+                    "y": 2.7599997520446777,
+                    "width": 73.791557312011719,
+                    "height": 18.479999542236328
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Medium",
+                    "fontStyle": "Medium",
+                    "fontWeight": 500,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 20.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 24.0,
+                    "lineHeightPercent": 120.00000762939453,
+                    "lineHeightPercentFontSize": 120.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "109:7158": {
+            "document": {
+                "id": "109:7158",
+                "name": "Body-02m",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 46.0,
+                    "height": 16.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.0800000429153442,
+                    "y": 2.4559998512268066,
+                    "width": 44.274936676025391,
+                    "height": 11.088001251220703
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Medium",
+                    "fontStyle": "Medium",
+                    "fontWeight": 500,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 12.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 16.0,
+                    "lineHeightPercent": 133.33334350585938,
+                    "lineHeightPercentFontSize": 133.33332824707031,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "14:1666": {
+            "document": {
+                "id": "14:1666",
+                "name": "Heading-01",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 245.0,
+                    "height": 68.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 7.2080001831054688,
+                    "y": 2.5839991569519043,
+                    "width": 233.47213745117188,
+                    "height": 62.832000732421875
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 68.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": -2.7200000000000002,
+                    "lineHeightPx": 68.0,
+                    "lineHeightPercent": 100.0,
+                    "lineHeightPercentFontSize": 100.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "6043:7181": {
+            "document": {
+                "id": "6043:7181",
+                "name": "Blur-header",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "BACKGROUND_BLUR",
+                        "visible": true,
+                        "radius": 44.0
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "109:6824": {
+            "document": {
+                "id": "109:6824",
+                "name": "Body-01",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 58.0,
+                    "height": 20.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.6960000991821289,
+                    "y": 2.6079998016357422,
+                    "width": 54.934627532958984,
+                    "height": 14.784000396728516
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 16.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": -0.64000000000000001,
+                    "lineHeightPx": 20.0,
+                    "lineHeightPercent": 125.0,
+                    "lineHeightPercentFontSize": 125.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "109:7159": {
+            "document": {
+                "id": "109:7159",
+                "name": "Body-01m",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 62.0,
+                    "height": 20.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.4400000572204590,
+                    "y": 2.6079998016357422,
+                    "width": 59.033252716064453,
+                    "height": 14.784000396728516
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Medium",
+                    "fontStyle": "Medium",
+                    "fontWeight": 500,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 16.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 20.0,
+                    "lineHeightPercent": 125.0,
+                    "lineHeightPercentFontSize": 125.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "7972:5": {
+            "document": {
+                "id": "7972:5",
+                "name": "Elevation-4",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": -28.0,
+                    "y": -14.0,
+                    "width": 156.0,
+                    "height": 156.0
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.10000000149011612
+                        },
+                        "blendMode": "NORMAL",
+                        "offset": {
+                            "x": 0.0,
+                            "y": 14.0
+                        },
+                        "radius": 32.0,
+                        "spread": -4.0,
+                        "showShadowBehindNode": false
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "9054:15586": {
+            "document": {
+                "id": "9054:15586",
+                "name": "Body-03",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 39.0,
+                    "height": 12.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 1.0600000619888306,
+                    "y": 1.8799998760223389,
+                    "width": 36.734138488769531,
+                    "height": 9.2399997711181641
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 10.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 12.0,
+                    "lineHeightPercent": 120.00000762939453,
+                    "lineHeightPercentFontSize": 120.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "6725:10977": {
+            "document": {
+                "id": "6725:10977",
+                "name": "Body-03m",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 39.0,
+                    "height": 12.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 0.90000003576278687,
+                    "y": 1.8799998760223389,
+                    "width": 36.895778656005859,
+                    "height": 9.2399997711181641
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Medium",
+                    "fontStyle": "Medium",
+                    "fontWeight": 500,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 10.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": 0.0,
+                    "lineHeightPx": 12.0,
+                    "lineHeightPercent": 120.00000762939453,
+                    "lineHeightPercentFontSize": 120.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "162:2687": {
+            "document": {
+                "id": "162:2687",
+                "name": "Heading-03",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 146.0,
+                    "height": 48.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 4.2400002479553223,
+                    "y": 5.5199995040893555,
+                    "width": 139.73655700683594,
+                    "height": 36.959999084472656
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 40.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": -1.20,
+                    "lineHeightPx": 48.0,
+                    "lineHeightPercent": 120.00000762939453,
+                    "lineHeightPercentFontSize": 120.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "18266:3": {
+            "document": {
+                "id": "18266:3",
+                "name": "Elevation-5",
+                "type": "RECTANGLE",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.85098040103912354,
+                            "g": 0.85098040103912354,
+                            "b": 0.85098040103912354,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 100.0,
+                    "height": 100.0
+                },
+                "absoluteRenderBounds": {
+                    "x": -19.600000381469727,
+                    "y": -2.6000003814697266,
+                    "width": 139.19999694824219,
+                    "height": 139.20001220703125
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "effects": [
+                    {
+                        "type": "DROP_SHADOW",
+                        "visible": true,
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 0.10000000149011612
+                        },
+                        "blendMode": "NORMAL",
+                        "offset": {
+                            "x": 0.0,
+                            "y": 17.0
+                        },
+                        "radius": 19.600000381469727,
+                        "showShadowBehindNode": false
+                    }
+                ],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        },
+        "14:1693": {
+            "document": {
+                "id": "14:1693",
+                "name": "Heading-02",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "fills": [
+                    {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                        }
+                    }
+                ],
+                "strokes": [],
+                "strokeWeight": 0.0,
+                "strokeAlign": "INSIDE",
+                "absoluteBoundingBox": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "width": 179.0,
+                    "height": 48.0
+                },
+                "absoluteRenderBounds": {
+                    "x": 5.0880002975463867,
+                    "y": 1.8239994049072266,
+                    "width": 170.56388854980469,
+                    "height": 44.352005004882812
+                },
+                "constraints": {
+                    "vertical": "TOP",
+                    "horizontal": "LEFT"
+                },
+                "characters": "Rag 123",
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                    "NONE"
+                ],
+                "lineIndentations": [
+                    0
+                ],
+                "style": {
+                    "fontFamily": "Wigrum",
+                    "fontPostScriptName": "Wigrum-Regular",
+                    "fontStyle": "Regular",
+                    "fontWeight": 400,
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "fontSize": 48.0,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "opentypeFlags": {
+                        "SS02": 1
+                    },
+                    "letterSpacing": -0.95999999999999996,
+                    "lineHeightPx": 48.0,
+                    "lineHeightPercent": 100.0,
+                    "lineHeightPercentFontSize": 100.0,
+                    "lineHeightUnit": "PIXELS"
+                },
+                "layoutVersion": 4,
+                "effects": [],
+                "interactions": []
+            },
+            "components": {},
+            "componentSets": {},
+            "schemaVersion": 0,
+            "styles": {}
+        }
+    }
+}

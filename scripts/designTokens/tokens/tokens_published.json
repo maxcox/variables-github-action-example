@@ -1,0 +1,1260 @@
+{
+    "error": false,
+    "status": 200,
+    "meta": {
+        "variableCollections": {
+            "VariableCollectionId:5:635": {
+                "id": "VariableCollectionId:5:635",
+                "subscribed_id": "VariableCollectionId:411e970f268d97178104d99a9a5388e2104ee649/10197:454",
+                "name": "Plume Official",
+                "key": "411e970f268d97178104d99a9a5388e2104ee649",
+                "updatedAt": "2025-02-28T21:08:14.872Z"
+            }
+        },
+        "variables": {
+            "VariableID:11924:8442": {
+                "id": "VariableID:11924:8442",
+                "subscribed_id": "VariableID:ea20cee98f24466b23b51ed7c649ac8894733814/11924:24",
+                "name": "Primitives/Color/Red/800",
+                "key": "ea20cee98f24466b23b51ed7c649ac8894733814",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.882Z"
+            },
+            "VariableID:5200:46519": {
+                "id": "VariableID:5200:46519",
+                "subscribed_id": "VariableID:136455d66ad1b16826fbcbc4037572e908709e8d/10197:362",
+                "name": "Semantic/Spacing/spacing-01",
+                "key": "136455d66ad1b16826fbcbc4037572e908709e8d",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.245Z"
+            },
+            "VariableID:47:169": {
+                "id": "VariableID:47:169",
+                "subscribed_id": "VariableID:cd37aade7b968534671d5d0dd67d908d5ecc282b/10197:354",
+                "name": "Primitives/Color/Green/600",
+                "key": "cd37aade7b968534671d5d0dd67d908d5ecc282b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.743Z"
+            },
+            "VariableID:20900:1012": {
+                "id": "VariableID:20900:1012",
+                "subscribed_id": "VariableID:33e520817ca575e5d977c0efd0a212be79dfb478/20900:5",
+                "name": "Primitives/Color/Red/700",
+                "key": "33e520817ca575e5d977c0efd0a212be79dfb478",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:37.598Z"
+            },
+            "VariableID:12656:8898": {
+                "id": "VariableID:12656:8898",
+                "subscribed_id": "VariableID:003490b8adf0809bab2f2f4585c4eb0cfaf154c0/12656:10",
+                "name": "Semantic/Color/Button/text-disabled",
+                "key": "003490b8adf0809bab2f2f4585c4eb0cfaf154c0",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.192Z"
+            },
+            "VariableID:84:466": {
+                "id": "VariableID:84:466",
+                "subscribed_id": "VariableID:00cc52815a8e82e822ae070b26ea09d1894e1abe/10205:562",
+                "name": "Semantic/Color/Button/text-secondary",
+                "key": "00cc52815a8e82e822ae070b26ea09d1894e1abe",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.198Z"
+            },
+            "VariableID:7621:3493": {
+                "id": "VariableID:7621:3493",
+                "subscribed_id": "VariableID:0141c3a8d94abaebddaeaaa244269dd9c355df0a/10197:333",
+                "name": "Primitives/Color/Red/600",
+                "key": "0141c3a8d94abaebddaeaaa244269dd9c355df0a",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.203Z"
+            },
+            "VariableID:100:5533": {
+                "id": "VariableID:100:5533",
+                "subscribed_id": "VariableID:0185c38356e9e3a648a72ea80a3c0b2caa8caa3d/10205:580",
+                "name": "Semantic/Color/Border/strong",
+                "key": "0185c38356e9e3a648a72ea80a3c0b2caa8caa3d",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.209Z"
+            },
+            "VariableID:108:6219": {
+                "id": "VariableID:108:6219",
+                "subscribed_id": "VariableID:021a45ba7a9a7ed1cb62c6f1aaa6ef529eb59187/10197:418",
+                "name": "Semantic/Color/Border/negative",
+                "key": "021a45ba7a9a7ed1cb62c6f1aaa6ef529eb59187",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.216Z"
+            },
+            "VariableID:138:1279": {
+                "id": "VariableID:138:1279",
+                "subscribed_id": "VariableID:062a5e46122529ad56d29946fb4e9714eae6fde6/10197:412",
+                "name": "Primitives/Color/Pink/500",
+                "key": "062a5e46122529ad56d29946fb4e9714eae6fde6",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.221Z"
+            },
+            "VariableID:47:168": {
+                "id": "VariableID:47:168",
+                "subscribed_id": "VariableID:08bd63d7222b9dbc6f7e333bfc1025b52050654d/10197:358",
+                "name": "Primitives/Color/Green/100",
+                "key": "08bd63d7222b9dbc6f7e333bfc1025b52050654d",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.226Z"
+            },
+            "VariableID:2054:44379": {
+                "id": "VariableID:2054:44379",
+                "subscribed_id": "VariableID:09ca046cbaed36017bb87fc70ef16687832d4f63/10219:603",
+                "name": "Semantic/Color/Button/text-important",
+                "key": "09ca046cbaed36017bb87fc70ef16687832d4f63",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.230Z"
+            },
+            "VariableID:84:362": {
+                "id": "VariableID:84:362",
+                "subscribed_id": "VariableID:10e0f4dc6702f099821306a6261ffe75622cec09/11924:7",
+                "name": "Primitives/Color/Purple/600",
+                "key": "10e0f4dc6702f099821306a6261ffe75622cec09",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.235Z"
+            },
+            "VariableID:84:464": {
+                "id": "VariableID:84:464",
+                "subscribed_id": "VariableID:1283d3af6431f5e60d122ce33d01bc83383d0a7c/10205:564",
+                "name": "Semantic/Color/Button/bg-primary",
+                "key": "1283d3af6431f5e60d122ce33d01bc83383d0a7c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.240Z"
+            },
+            "VariableID:7348:31107": {
+                "id": "VariableID:7348:31107",
+                "subscribed_id": "VariableID:150f19315125bb2069f65af6cfbcf1922524ee42/10205:540",
+                "name": "Semantic/Color/IconButton/bg-secondary-active",
+                "key": "150f19315125bb2069f65af6cfbcf1922524ee42",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.249Z"
+            },
+            "VariableID:5313:46678": {
+                "id": "VariableID:5313:46678",
+                "subscribed_id": "VariableID:1553d69b14a777d0af9d9e958614944c84febd63/10197:338",
+                "name": "Semantic/Size/size-m",
+                "key": "1553d69b14a777d0af9d9e958614944c84febd63",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.254Z"
+            },
+            "VariableID:5200:46523": {
+                "id": "VariableID:5200:46523",
+                "subscribed_id": "VariableID:1b9d2b67f104732145e7fb315c6d9038979ab952/10197:447",
+                "name": "Semantic/Spacing/spacing-06",
+                "key": "1b9d2b67f104732145e7fb315c6d9038979ab952",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.258Z"
+            },
+            "VariableID:108:6419": {
+                "id": "VariableID:108:6419",
+                "subscribed_id": "VariableID:1cdbff65cb7bb563c9e653e35388c910f3ef41fa/10197:415",
+                "name": "Primitives/Dimension/dimension-07",
+                "key": "1cdbff65cb7bb563c9e653e35388c910f3ef41fa",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.263Z"
+            },
+            "VariableID:7348:31104": {
+                "id": "VariableID:7348:31104",
+                "subscribed_id": "VariableID:1d89d2a4f281fb7fcade0466a8cb7f5671215e10/10205:517",
+                "name": "Semantic/Color/Content/icon-disabled",
+                "key": "1d89d2a4f281fb7fcade0466a8cb7f5671215e10",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.267Z"
+            },
+            "VariableID:10099:4857": {
+                "id": "VariableID:10099:4857",
+                "subscribed_id": "VariableID:1f5568b738907db7e6ced50f231e173aceeb6918/10197:328",
+                "name": "Primitives/Color/Purple/300",
+                "key": "1f5568b738907db7e6ced50f231e173aceeb6918",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.272Z"
+            },
+            "VariableID:84:447": {
+                "id": "VariableID:84:447",
+                "subscribed_id": "VariableID:1f80381c35b9f7554941fcd8982ad0169f4aca8f/10205:563",
+                "name": "Semantic/Color/Content/text-primary",
+                "key": "1f80381c35b9f7554941fcd8982ad0169f4aca8f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.277Z"
+            },
+            "VariableID:2054:44376": {
+                "id": "VariableID:2054:44376",
+                "subscribed_id": "VariableID:2105c981128a11464e5b8f3fe208026c10d76b07/10205:519",
+                "name": "Semantic/Color/Button/bg-primary-active",
+                "key": "2105c981128a11464e5b8f3fe208026c10d76b07",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.281Z"
+            },
+            "VariableID:73:1935": {
+                "id": "VariableID:73:1935",
+                "subscribed_id": "VariableID:227f133311a8fa0fb90fee698bf8201e21ac97cb/10197:446",
+                "name": "Primitives/Dimension/dimension-04",
+                "key": "227f133311a8fa0fb90fee698bf8201e21ac97cb",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.286Z"
+            },
+            "VariableID:78:3242": {
+                "id": "VariableID:78:3242",
+                "subscribed_id": "VariableID:257b69d74e88a64d7b8f978a69aa39e57780b055/10197:465",
+                "name": "Semantic/Color/Card/bg-highlight",
+                "key": "257b69d74e88a64d7b8f978a69aa39e57780b055",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.290Z"
+            },
+            "VariableID:81:13742": {
+                "id": "VariableID:81:13742",
+                "subscribed_id": "VariableID:29a8e7e89ca8fa607835a7b10cee3c5dffe9b6be/10197:353",
+                "name": "Semantic/Color/Tab/text-active",
+                "key": "29a8e7e89ca8fa607835a7b10cee3c5dffe9b6be",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.295Z"
+            },
+            "VariableID:75:2637": {
+                "id": "VariableID:75:2637",
+                "subscribed_id": "VariableID:2bbde55cc41e231b8c2646b1019f883886672b6f/10197:381",
+                "name": "Primitives/Dimension/dimension-10",
+                "key": "2bbde55cc41e231b8c2646b1019f883886672b6f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.300Z"
+            },
+            "VariableID:138:1280": {
+                "id": "VariableID:138:1280",
+                "subscribed_id": "VariableID:2cfc72b93fdd5aa7efb69fe62fbb30bca82bce21/10197:336",
+                "name": "Primitives/Color/Pink/700",
+                "key": "2cfc72b93fdd5aa7efb69fe62fbb30bca82bce21",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.304Z"
+            },
+            "VariableID:84:363": {
+                "id": "VariableID:84:363",
+                "subscribed_id": "VariableID:36d0b000c05498788f83044921d43c6c93002ddb/10205:560",
+                "name": "Primitives/Color/Gray/50",
+                "key": "36d0b000c05498788f83044921d43c6c93002ddb",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.309Z"
+            },
+            "VariableID:84:448": {
+                "id": "VariableID:84:448",
+                "subscribed_id": "VariableID:37ef4aba112311e23b83a87689c72c9e2c065431/10205:593",
+                "name": "Semantic/Color/Content/text-secondary",
+                "key": "37ef4aba112311e23b83a87689c72c9e2c065431",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.314Z"
+            },
+            "VariableID:7621:3434": {
+                "id": "VariableID:7621:3434",
+                "subscribed_id": "VariableID:3be07ad188c5063561735605f343802ca6961f49/10197:414",
+                "name": "Primitives/Color/Red/50",
+                "key": "3be07ad188c5063561735605f343802ca6961f49",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.324Z"
+            },
+            "VariableID:7370:37715": {
+                "id": "VariableID:7370:37715",
+                "subscribed_id": "VariableID:3cb5e0914d0c672628223188f1dae35665b94f85/18778:18",
+                "name": "Semantic/Color/Status/Offline",
+                "key": "3cb5e0914d0c672628223188f1dae35665b94f85",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.328Z"
+            },
+            "VariableID:5200:46522": {
+                "id": "VariableID:5200:46522",
+                "subscribed_id": "VariableID:3d47c6014b632147c45e3c012217eed16b4b925a/10197:450",
+                "name": "Semantic/Spacing/spacing-05",
+                "key": "3d47c6014b632147c45e3c012217eed16b4b925a",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.333Z"
+            },
+            "VariableID:73:1938": {
+                "id": "VariableID:73:1938",
+                "subscribed_id": "VariableID:3e256a2e8a6f8c33fa0d0e7581d9c8e9d928ad44/10197:425",
+                "name": "Primitives/Dimension/dimension-09",
+                "key": "3e256a2e8a6f8c33fa0d0e7581d9c8e9d928ad44",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.337Z"
+            },
+            "VariableID:5187:40946": {
+                "id": "VariableID:5187:40946",
+                "subscribed_id": "VariableID:3ecba6490eecda0925ade8d537b9bba646bb9ac5/10205:583",
+                "name": "Semantic/Color/Button/bg-secondary-active",
+                "key": "3ecba6490eecda0925ade8d537b9bba646bb9ac5",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.342Z"
+            },
+            "VariableID:5187:40947": {
+                "id": "VariableID:5187:40947",
+                "subscribed_id": "VariableID:3ffd8fd272cf2d2b0e306dce786c0d50fd7823e0/10205:545",
+                "name": "Semantic/Color/Button/bg-tertiary-active",
+                "key": "3ffd8fd272cf2d2b0e306dce786c0d50fd7823e0",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.347Z"
+            },
+            "VariableID:2054:44378": {
+                "id": "VariableID:2054:44378",
+                "subscribed_id": "VariableID:40bbaba91f8ec898880a44e39e59b3bf58b8760b/11924:8",
+                "name": "Semantic/Color/Button/bg-important-active",
+                "key": "40bbaba91f8ec898880a44e39e59b3bf58b8760b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.351Z"
+            },
+            "VariableID:7621:3491": {
+                "id": "VariableID:7621:3491",
+                "subscribed_id": "VariableID:40cf01be03ce1c8543edc6be993cdf23ea0cdabd/10197:397",
+                "name": "Primitives/Color/Orange/600",
+                "key": "40cf01be03ce1c8543edc6be993cdf23ea0cdabd",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.356Z"
+            },
+            "VariableID:139:1285": {
+                "id": "VariableID:139:1285",
+                "subscribed_id": "VariableID:41313cc46979de2f2594a8d1fba948796aedaaae/10197:420",
+                "name": "Primitives/Color/Green/300",
+                "key": "41313cc46979de2f2594a8d1fba948796aedaaae",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.360Z"
+            },
+            "VariableID:84:364": {
+                "id": "VariableID:84:364",
+                "subscribed_id": "VariableID:41b572e317b0f80845ac8d58859c0e1ecee8659b/10205:542",
+                "name": "Primitives/Color/Gray/100",
+                "key": "41b572e317b0f80845ac8d58859c0e1ecee8659b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.365Z"
+            },
+            "VariableID:9022:14737": {
+                "id": "VariableID:9022:14737",
+                "subscribed_id": "VariableID:42399e0361f0d6c6ab0f4525e8a3f6e27e408c7c/12656:7",
+                "name": "Semantic/Color/Button/text-chip-inactive",
+                "key": "42399e0361f0d6c6ab0f4525e8a3f6e27e408c7c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.370Z"
+            },
+            "VariableID:84:468": {
+                "id": "VariableID:84:468",
+                "subscribed_id": "VariableID:4260dd6ac2a478416b9e2853d3202b25256222fc/10205:543",
+                "name": "Semantic/Color/Content/icon-secondary",
+                "key": "4260dd6ac2a478416b9e2853d3202b25256222fc",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.375Z"
+            },
+            "VariableID:84:371": {
+                "id": "VariableID:84:371",
+                "subscribed_id": "VariableID:446ae37ee10b1c8225eedf1df338bd8c1d38abc3/10197:429",
+                "name": "Semantic/Radius/radius-8",
+                "key": "446ae37ee10b1c8225eedf1df338bd8c1d38abc3",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.380Z"
+            },
+            "VariableID:7621:3421": {
+                "id": "VariableID:7621:3421",
+                "subscribed_id": "VariableID:44b2b3464a29397da1f1bb41b014e66ac3694766/10197:351",
+                "name": "Primitives/Color/Green/50",
+                "key": "44b2b3464a29397da1f1bb41b014e66ac3694766",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.385Z"
+            },
+            "VariableID:79:8410": {
+                "id": "VariableID:79:8410",
+                "subscribed_id": "VariableID:4561aec71f572024c9cb5efda6e2f7aaeb92e454/10197:332",
+                "name": "Primitives/Dimension/dimension-01",
+                "key": "4561aec71f572024c9cb5efda6e2f7aaeb92e454",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.389Z"
+            },
+            "VariableID:18778:705": {
+                "id": "VariableID:18778:705",
+                "subscribed_id": "VariableID:45a40bfe13df6666c8288bc572bf6382a1900737/18778:7",
+                "name": "Primitives/Color/Yellow/600",
+                "key": "45a40bfe13df6666c8288bc572bf6382a1900737",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.395Z"
+            },
+            "VariableID:89:639": {
+                "id": "VariableID:89:639",
+                "subscribed_id": "VariableID:4757d34d29f0efd35b6ea93e71ec93d43885bf2d/10205:521",
+                "name": "Primitives/Color/Gray/200",
+                "key": "4757d34d29f0efd35b6ea93e71ec93d43885bf2d",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.400Z"
+            },
+            "VariableID:47:170": {
+                "id": "VariableID:47:170",
+                "subscribed_id": "VariableID:4835ff45878d3170dbc6db1d1eefa5cf53195f9b/10197:334",
+                "name": "Primitives/Color/Orange/100",
+                "key": "4835ff45878d3170dbc6db1d1eefa5cf53195f9b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.405Z"
+            },
+            "VariableID:10197:10997": {
+                "id": "VariableID:10197:10997",
+                "subscribed_id": "VariableID:49f7a6d3c6e4ba2ea88006727bbe77ff1da49f95/10197:326",
+                "name": "Primitives/Color/Purple/100",
+                "key": "49f7a6d3c6e4ba2ea88006727bbe77ff1da49f95",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.410Z"
+            },
+            "VariableID:48:3000": {
+                "id": "VariableID:48:3000",
+                "subscribed_id": "VariableID:4a8472662a0b78fa400ba06bd75712da95da91c0/10205:594",
+                "name": "Semantic/Color/Content/text-error",
+                "key": "4a8472662a0b78fa400ba06bd75712da95da91c0",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.414Z"
+            },
+            "VariableID:7272:30849": {
+                "id": "VariableID:7272:30849",
+                "subscribed_id": "VariableID:4d2fbcdc91a7d7059ff6a8a69b6ba2c310c1f30d/10197:416",
+                "name": "Semantic/Color/IconButton/bg-secondary",
+                "key": "4d2fbcdc91a7d7059ff6a8a69b6ba2c310c1f30d",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.420Z"
+            },
+            "VariableID:84:404": {
+                "id": "VariableID:84:404",
+                "subscribed_id": "VariableID:4db9e52118deead78e74a6a4b544751235ed0f70/10197:403",
+                "name": "Semantic/Radius/radius-4",
+                "key": "4db9e52118deead78e74a6a4b544751235ed0f70",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.425Z"
+            },
+            "VariableID:138:1281": {
+                "id": "VariableID:138:1281",
+                "subscribed_id": "VariableID:50101314c50413f41ea85d3b35afd0ad54bf6b00/18778:1",
+                "name": "Primitives/Color/Yellow/300",
+                "key": "50101314c50413f41ea85d3b35afd0ad54bf6b00",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.429Z"
+            },
+            "VariableID:6043:8836": {
+                "id": "VariableID:6043:8836",
+                "subscribed_id": "VariableID:5344d56c99f2f68f65399357db886311671feead/10205:584",
+                "name": "Semantic/Color/Content/icon-tertiary",
+                "key": "5344d56c99f2f68f65399357db886311671feead",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.433Z"
+            },
+            "VariableID:73:1933": {
+                "id": "VariableID:73:1933",
+                "subscribed_id": "VariableID:53f3dca763b1d24afc8edf0a356a47d9148367bd/10197:449",
+                "name": "Primitives/Dimension/dimension-02",
+                "key": "53f3dca763b1d24afc8edf0a356a47d9148367bd",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.437Z"
+            },
+            "VariableID:83:358": {
+                "id": "VariableID:83:358",
+                "subscribed_id": "VariableID:55bae9e51d0ec0fef7bf541d0fa83a8ed472d07c/19044:6",
+                "name": "Semantic/Color/Card/bg-default",
+                "key": "55bae9e51d0ec0fef7bf541d0fa83a8ed472d07c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.442Z"
+            },
+            "VariableID:10197:11287": {
+                "id": "VariableID:10197:11287",
+                "subscribed_id": "VariableID:564d4623892f5db8e802d03138ac4ae114a0f201/10197:439",
+                "name": "Primitives/Color/Red/300",
+                "key": "564d4623892f5db8e802d03138ac4ae114a0f201",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.446Z"
+            },
+            "VariableID:84:365": {
+                "id": "VariableID:84:365",
+                "subscribed_id": "VariableID:569bf7fe22ce6f5559bb69900d334c138a4c5633/10205:579",
+                "name": "Primitives/Color/Gray/300",
+                "key": "569bf7fe22ce6f5559bb69900d334c138a4c5633",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.451Z"
+            },
+            "VariableID:10197:11412": {
+                "id": "VariableID:10197:11412",
+                "subscribed_id": "VariableID:5724b41510be9a180f9aa33429d2c9a73068a911/18778:20",
+                "name": "Semantic/Color/Status/Yellow",
+                "key": "5724b41510be9a180f9aa33429d2c9a73068a911",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.455Z"
+            },
+            "VariableID:48:2998": {
+                "id": "VariableID:48:2998",
+                "subscribed_id": "VariableID:5c11b0479479c3d473860b78d7d53d5ecbc2e20c/10216:596",
+                "name": "Semantic/Color/Content/text-placeholder",
+                "key": "5c11b0479479c3d473860b78d7d53d5ecbc2e20c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.459Z"
+            },
+            "VariableID:84:369": {
+                "id": "VariableID:84:369",
+                "subscribed_id": "VariableID:5cf9696ba0639ee51e6f2b7f8926665fae690b6b/10197:451",
+                "name": "Semantic/Radius/radius-0",
+                "key": "5cf9696ba0639ee51e6f2b7f8926665fae690b6b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.463Z"
+            },
+            "VariableID:5187:45976": {
+                "id": "VariableID:5187:45976",
+                "subscribed_id": "VariableID:5e7c647d9fb23efb323d678883c1a2ad4baabea2/10205:585",
+                "name": "Semantic/Color/Button/bg-disabled",
+                "key": "5e7c647d9fb23efb323d678883c1a2ad4baabea2",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.467Z"
+            },
+            "VariableID:11924:8439": {
+                "id": "VariableID:11924:8439",
+                "subscribed_id": "VariableID:60f984c492d5376cf7e3bb3d6b263e354612aa60/11924:12",
+                "name": "Primitives/Color/Purple/800",
+                "key": "60f984c492d5376cf7e3bb3d6b263e354612aa60",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.472Z"
+            },
+            "VariableID:11924:8440": {
+                "id": "VariableID:11924:8440",
+                "subscribed_id": "VariableID:61c706321e42090a84dd788103ce270ce4c12eb3/11924:16",
+                "name": "Primitives/Color/Orange/800",
+                "key": "61c706321e42090a84dd788103ce270ce4c12eb3",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.476Z"
+            },
+            "VariableID:84:361": {
+                "id": "VariableID:84:361",
+                "subscribed_id": "VariableID:61fcc442b58dbd309e909e1d4e6c2748c5765536/10197:464",
+                "name": "Primitives/Color/Purple/400",
+                "key": "61fcc442b58dbd309e909e1d4e6c2748c5765536",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.481Z"
+            },
+            "VariableID:7370:37714": {
+                "id": "VariableID:7370:37714",
+                "subscribed_id": "VariableID:62c81af81eda1d7c45db600036b9c3143c33f525/10216:598",
+                "name": "Semantic/Color/Status/Active",
+                "key": "62c81af81eda1d7c45db600036b9c3143c33f525",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.486Z"
+            },
+            "VariableID:7348:31108": {
+                "id": "VariableID:7348:31108",
+                "subscribed_id": "VariableID:62eb9584bc49fd04020b6d994c5221ecedff676f/10216:601",
+                "name": "Semantic/Color/IconButton/bg-tertiary-active",
+                "key": "62eb9584bc49fd04020b6d994c5221ecedff676f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.490Z"
+            },
+            "VariableID:138:1282": {
+                "id": "VariableID:138:1282",
+                "subscribed_id": "VariableID:63f9ef5efabfd88fc118b71369ab3ffbc0643f8a/18778:3",
+                "name": "Primitives/Color/Yellow/400",
+                "key": "63f9ef5efabfd88fc118b71369ab3ffbc0643f8a",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.494Z"
+            },
+            "VariableID:108:6220": {
+                "id": "VariableID:108:6220",
+                "subscribed_id": "VariableID:64575f86ac88db1f945e9473b0d439521cb5f477/18778:12",
+                "name": "Semantic/Color/Status/Orange",
+                "key": "64575f86ac88db1f945e9473b0d439521cb5f477",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.498Z"
+            },
+            "VariableID:2145:7549": {
+                "id": "VariableID:2145:7549",
+                "subscribed_id": "VariableID:65bcd5508ece13f5bfa551f0b87c45f14217087c/10205:505",
+                "name": "Semantic/Color/Button/text-tertiary",
+                "key": "65bcd5508ece13f5bfa551f0b87c45f14217087c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.503Z"
+            },
+            "VariableID:19044:1216": {
+                "id": "VariableID:19044:1216",
+                "subscribed_id": "VariableID:65e7241e3116636b644f8d0c25e9a9493d2d4c76/19044:3",
+                "name": "Primitives/Color/Gray/950",
+                "key": "65e7241e3116636b644f8d0c25e9a9493d2d4c76",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.507Z"
+            },
+            "VariableID:84:372": {
+                "id": "VariableID:84:372",
+                "subscribed_id": "VariableID:68059a884f88b65e172ef92f9836f01ec425500c/10197:349",
+                "name": "Semantic/Radius/radius-full",
+                "key": "68059a884f88b65e172ef92f9836f01ec425500c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.511Z"
+            },
+            "VariableID:7069:5465": {
+                "id": "VariableID:7069:5465",
+                "subscribed_id": "VariableID:6835df45dd52de857f9de45725454a79ef004a06/10197:335",
+                "name": "Primitives/Dimension/dimension-00",
+                "key": "6835df45dd52de857f9de45725454a79ef004a06",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.517Z"
+            },
+            "VariableID:5783:3382": {
+                "id": "VariableID:5783:3382",
+                "subscribed_id": "VariableID:6d8d5db53b6f8d264779eef7207c7a073f09cefe/10197:337",
+                "name": "Semantic/Color/Content/text-highlight",
+                "key": "6d8d5db53b6f8d264779eef7207c7a073f09cefe",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.522Z"
+            },
+            "VariableID:100:5534": {
+                "id": "VariableID:100:5534",
+                "subscribed_id": "VariableID:6fe62d720c5930f0c9a35aa4e64dcb784456c7be/10205:528",
+                "name": "Semantic/Color/Border/disabled",
+                "key": "6fe62d720c5930f0c9a35aa4e64dcb784456c7be",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.527Z"
+            },
+            "VariableID:108:6351": {
+                "id": "VariableID:108:6351",
+                "subscribed_id": "VariableID:708535c9b9a4f510ff3fd135b1d1b9bcc0066181/10205:492",
+                "name": "Semantic/Color/Border/light",
+                "key": "708535c9b9a4f510ff3fd135b1d1b9bcc0066181",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.531Z"
+            },
+            "VariableID:8831:822": {
+                "id": "VariableID:8831:822",
+                "subscribed_id": "VariableID:7674c7d1cd53ef942b4fea901f797aec499409f2/10197:371",
+                "name": "Primitives/Color/Purple/50",
+                "key": "7674c7d1cd53ef942b4fea901f797aec499409f2",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.536Z"
+            },
+            "VariableID:108:6223": {
+                "id": "VariableID:108:6223",
+                "subscribed_id": "VariableID:78dc8f9824f2e255df9e80f7a2e7043a073f18cc/18778:10",
+                "name": "Semantic/Color/Status/Green-soft",
+                "key": "78dc8f9824f2e255df9e80f7a2e7043a073f18cc",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.540Z"
+            },
+            "VariableID:7348:31106": {
+                "id": "VariableID:7348:31106",
+                "subscribed_id": "VariableID:7ca05a63c28e817d541585c0a4c3b3114fa312a9/10205:524",
+                "name": "Semantic/Color/IconButton/bg-primary-active",
+                "key": "7ca05a63c28e817d541585c0a4c3b3114fa312a9",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.545Z"
+            },
+            "VariableID:9022:14738": {
+                "id": "VariableID:9022:14738",
+                "subscribed_id": "VariableID:829a804c9760e7196aab55595c80fb26cf1a33e5/12656:6",
+                "name": "Semantic/Color/Button/text-chip-active",
+                "key": "829a804c9760e7196aab55595c80fb26cf1a33e5",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.549Z"
+            },
+            "VariableID:84:465": {
+                "id": "VariableID:84:465",
+                "subscribed_id": "VariableID:836f0a6e5a4fecd72829478e9a5438229c4970d6/10197:405",
+                "name": "Semantic/Color/Button/text-primary",
+                "key": "836f0a6e5a4fecd72829478e9a5438229c4970d6",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.554Z"
+            },
+            "VariableID:7069:5466": {
+                "id": "VariableID:7069:5466",
+                "subscribed_id": "VariableID:84612be083b5de85418a16354404ab9c009c52bc/10197:347",
+                "name": "Primitives/Dimension/dimension-full",
+                "key": "84612be083b5de85418a16354404ab9c009c52bc",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.559Z"
+            },
+            "VariableID:73:1934": {
+                "id": "VariableID:73:1934",
+                "subscribed_id": "VariableID:86f4562749a0c50ea14aaeb847a90da84ecf2cc8/10197:356",
+                "name": "Primitives/Dimension/dimension-03",
+                "key": "86f4562749a0c50ea14aaeb847a90da84ecf2cc8",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.563Z"
+            },
+            "VariableID:5802:3397": {
+                "id": "VariableID:5802:3397",
+                "subscribed_id": "VariableID:89cd5c5c4c89885b24e460576124c5b6ae3e9c16/10197:445",
+                "name": "Semantic/Spacing/spacing-08",
+                "key": "89cd5c5c4c89885b24e460576124c5b6ae3e9c16",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.568Z"
+            },
+            "VariableID:91:1923": {
+                "id": "VariableID:91:1923",
+                "subscribed_id": "VariableID:8d00ca0d22a6c57967bb34049b5916eb2c47fd12/19044:4",
+                "name": "Semantic/Color/Surface/Base",
+                "key": "8d00ca0d22a6c57967bb34049b5916eb2c47fd12",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.573Z"
+            },
+            "VariableID:11924:8441": {
+                "id": "VariableID:11924:8441",
+                "subscribed_id": "VariableID:8df6b64c4b31721f6636a623fd634e8f4af69d84/11924:20",
+                "name": "Primitives/Color/Green/800",
+                "key": "8df6b64c4b31721f6636a623fd634e8f4af69d84",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.577Z"
+            },
+            "VariableID:91:3181": {
+                "id": "VariableID:91:3181",
+                "subscribed_id": "VariableID:8ea613b2e888e72bd5c7838898d60348248545c1/10197:378",
+                "name": "Semantic/Color/Button/bg-tertiary",
+                "key": "8ea613b2e888e72bd5c7838898d60348248545c1",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.581Z"
+            },
+            "VariableID:7272:30847": {
+                "id": "VariableID:7272:30847",
+                "subscribed_id": "VariableID:907dcce0d9c4a99b1fd5f4aa43f78bf084266db6/10205:561",
+                "name": "Semantic/Color/IconButton/bg-primary",
+                "key": "907dcce0d9c4a99b1fd5f4aa43f78bf084266db6",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.586Z"
+            },
+            "VariableID:139:1283": {
+                "id": "VariableID:139:1283",
+                "subscribed_id": "VariableID:92d9c43d936f618b74f061d7ec101e1e177dca59/10197:344",
+                "name": "Primitives/Color/Blue/500",
+                "key": "92d9c43d936f618b74f061d7ec101e1e177dca59",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.591Z"
+            },
+            "VariableID:7354:31109": {
+                "id": "VariableID:7354:31109",
+                "subscribed_id": "VariableID:950e616e160f1e074a3e7edfe32d50e86074c5a1/10205:538",
+                "name": "Semantic/Color/Card/bg-inverted",
+                "key": "950e616e160f1e074a3e7edfe32d50e86074c5a1",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.596Z"
+            },
+            "VariableID:109:6990": {
+                "id": "VariableID:109:6990",
+                "subscribed_id": "VariableID:95655f8720e344c716c86c4235cabada47c14033/10205:523",
+                "name": "Semantic/Color/Border/faint",
+                "key": "95655f8720e344c716c86c4235cabada47c14033",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.601Z"
+            },
+            "VariableID:10182:10563": {
+                "id": "VariableID:10182:10563",
+                "subscribed_id": "VariableID:9599f70a28e340d2c3a8742b1ae071a9424d5076/10197:360",
+                "name": "Primitives/Color/Gray/600",
+                "key": "9599f70a28e340d2c3a8742b1ae071a9424d5076",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.606Z"
+            },
+            "VariableID:7638:6241": {
+                "id": "VariableID:7638:6241",
+                "subscribed_id": "VariableID:96d76455ba22f0e6ffff5f7826dd440222390cdf/18778:14",
+                "name": "Semantic/Color/Status/Error-soft",
+                "key": "96d76455ba22f0e6ffff5f7826dd440222390cdf",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.612Z"
+            },
+            "VariableID:108:6222": {
+                "id": "VariableID:108:6222",
+                "subscribed_id": "VariableID:979d499858eab615f6354c2cacfdf47a0638641f/18778:11",
+                "name": "Semantic/Color/Status/Orange-soft",
+                "key": "979d499858eab615f6354c2cacfdf47a0638641f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.618Z"
+            },
+            "VariableID:9022:14735": {
+                "id": "VariableID:9022:14735",
+                "subscribed_id": "VariableID:9852a477d9d142781b246a651c294283f3c098f9/12656:9",
+                "name": "Semantic/Color/Button/border-chip-inactive",
+                "key": "9852a477d9d142781b246a651c294283f3c098f9",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.624Z"
+            },
+            "VariableID:5200:46520": {
+                "id": "VariableID:5200:46520",
+                "subscribed_id": "VariableID:9ca6f13ec4fed550c40cbf95fe712fcabb3411b4/10197:421",
+                "name": "Semantic/Spacing/spacing-02",
+                "key": "9ca6f13ec4fed550c40cbf95fe712fcabb3411b4",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.630Z"
+            },
+            "VariableID:18122:411": {
+                "id": "VariableID:18122:411",
+                "subscribed_id": "VariableID:a27692522821a1106ed9521e8aabce000b262e61/20900:6",
+                "name": "Semantic/Color/Status/Error-heavy",
+                "key": "a27692522821a1106ed9521e8aabce000b262e61",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.637Z"
+            },
+            "VariableID:73:1939": {
+                "id": "VariableID:73:1939",
+                "subscribed_id": "VariableID:a2777a1f34b3b4cdbb9eb97151081a7c58ce5741/10197:419",
+                "name": "Primitives/Dimension/dimension-11",
+                "key": "a2777a1f34b3b4cdbb9eb97151081a7c58ce5741",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.642Z"
+            },
+            "VariableID:74:6247": {
+                "id": "VariableID:74:6247",
+                "subscribed_id": "VariableID:a38e90ff9b7711b56c4136f7250539179f4a39af/10197:327",
+                "name": "Primitives/Color/Red/500",
+                "key": "a38e90ff9b7711b56c4136f7250539179f4a39af",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.647Z"
+            },
+            "VariableID:84:359": {
+                "id": "VariableID:84:359",
+                "subscribed_id": "VariableID:a3c1b94656a0b43032e3075032fd0fdee5f25f90/10197:368",
+                "name": "Primitives/black",
+                "key": "a3c1b94656a0b43032e3075032fd0fdee5f25f90",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.652Z"
+            },
+            "VariableID:19321:867": {
+                "id": "VariableID:19321:867",
+                "subscribed_id": "VariableID:a5ed9888767eadf8c1e8d893dd90f9c327a4dd42/19321:3",
+                "name": "Semantic/Color/Status/Away",
+                "key": "a5ed9888767eadf8c1e8d893dd90f9c327a4dd42",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.664Z"
+            },
+            "VariableID:5187:40950": {
+                "id": "VariableID:5187:40950",
+                "subscribed_id": "VariableID:ab4a237e424df36367041a9c77a5cfd3f32f4f47/10205:557",
+                "name": "Semantic/Color/Button/border-secondary",
+                "key": "ab4a237e424df36367041a9c77a5cfd3f32f4f47",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.671Z"
+            },
+            "VariableID:7272:30848": {
+                "id": "VariableID:7272:30848",
+                "subscribed_id": "VariableID:af15f66483ce155be8e8c65b91fcea86dbe97209/10205:544",
+                "name": "Semantic/Color/IconButton/bg-tertiary",
+                "key": "af15f66483ce155be8e8c65b91fcea86dbe97209",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.693Z"
+            },
+            "VariableID:84:367": {
+                "id": "VariableID:84:367",
+                "subscribed_id": "VariableID:b0fc92afe3134c54fe9dfe1f8171d5bd2006e021/10205:510",
+                "name": "Primitives/Color/Gray/900",
+                "key": "b0fc92afe3134c54fe9dfe1f8171d5bd2006e021",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.700Z"
+            },
+            "VariableID:139:1284": {
+                "id": "VariableID:139:1284",
+                "subscribed_id": "VariableID:b65f9195a67d059cb20e4f3862031237567953bb/10197:345",
+                "name": "Primitives/Color/Blue/700",
+                "key": "b65f9195a67d059cb20e4f3862031237567953bb",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.705Z"
+            },
+            "VariableID:81:13896": {
+                "id": "VariableID:81:13896",
+                "subscribed_id": "VariableID:b66f0a80fb9bc8f0659c53a84abdafebe2be5dcd/10205:592",
+                "name": "Semantic/Color/Tab/text-inactive",
+                "key": "b66f0a80fb9bc8f0659c53a84abdafebe2be5dcd",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.710Z"
+            },
+            "VariableID:8831:823": {
+                "id": "VariableID:8831:823",
+                "subscribed_id": "VariableID:b8e41a1b05e352a456d85fd6460ff03ccae0f09e/18778:16",
+                "name": "Semantic/Color/Status/Active-soft",
+                "key": "b8e41a1b05e352a456d85fd6460ff03ccae0f09e",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.715Z"
+            },
+            "VariableID:84:360": {
+                "id": "VariableID:84:360",
+                "subscribed_id": "VariableID:b91640c0fabccf06592ba3d31be1434e8057375c/10197:400",
+                "name": "Primitives/Color/Purple/200",
+                "key": "b91640c0fabccf06592ba3d31be1434e8057375c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.720Z"
+            },
+            "VariableID:9022:14736": {
+                "id": "VariableID:9022:14736",
+                "subscribed_id": "VariableID:bef3e536179790ed6a690d6d9cf95d9904efaf7f/12656:8",
+                "name": "Semantic/Color/Button/bg-chip-active",
+                "key": "bef3e536179790ed6a690d6d9cf95d9904efaf7f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.725Z"
+            },
+            "VariableID:6043:7175": {
+                "id": "VariableID:6043:7175",
+                "subscribed_id": "VariableID:c426ee062e0a521eb8c5cfaf6ff90bb47431682c/19044:5",
+                "name": "Semantic/Color/Surface/Header",
+                "key": "c426ee062e0a521eb8c5cfaf6ff90bb47431682c",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.729Z"
+            },
+            "VariableID:47:171": {
+                "id": "VariableID:47:171",
+                "subscribed_id": "VariableID:c463a16de89b162c8e097d53e29f367a2f976213/10197:383",
+                "name": "Primitives/Color/Orange/500",
+                "key": "c463a16de89b162c8e097d53e29f367a2f976213",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.734Z"
+            },
+            "VariableID:82:2": {
+                "id": "VariableID:82:2",
+                "subscribed_id": "VariableID:c830f0051316978b4dff099e4ad70135855ad819/10197:413",
+                "name": "Primitives/white",
+                "key": "c830f0051316978b4dff099e4ad70135855ad819",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.739Z"
+            },
+            "VariableID:5200:46524": {
+                "id": "VariableID:5200:46524",
+                "subscribed_id": "VariableID:cf014b2d2ba5c34d0224beb17903a60e943740ba/10197:424",
+                "name": "Semantic/Spacing/spacing-07",
+                "key": "cf014b2d2ba5c34d0224beb17903a60e943740ba",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.748Z"
+            },
+            "VariableID:4495:1272": {
+                "id": "VariableID:4495:1272",
+                "subscribed_id": "VariableID:cf6e88e4205671f368fb2af9215d0e0d5f36af49/10197:339",
+                "name": "Primitives/Dimension/dimension-08",
+                "key": "cf6e88e4205671f368fb2af9215d0e0d5f36af49",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.754Z"
+            },
+            "VariableID:73:1936": {
+                "id": "VariableID:73:1936",
+                "subscribed_id": "VariableID:d075aa4b8c53354cdbc7b5b5ae70567a1fb9dafb/10197:453",
+                "name": "Primitives/Dimension/dimension-05",
+                "key": "d075aa4b8c53354cdbc7b5b5ae70567a1fb9dafb",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.761Z"
+            },
+            "VariableID:18778:722": {
+                "id": "VariableID:18778:722",
+                "subscribed_id": "VariableID:d2e07cb4461cfaaaaaed7cd263793781d46a66ed/18778:33",
+                "name": "Semantic/Color/Status/Yellow-soft",
+                "key": "d2e07cb4461cfaaaaaed7cd263793781d46a66ed",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.773Z"
+            },
+            "VariableID:8930:10714": {
+                "id": "VariableID:8930:10714",
+                "subscribed_id": "VariableID:d6da0d7d3d6dd9d852b9bb1a92b2109dfe428a19/10197:433",
+                "name": "Semantic/Color/Content/text-invert",
+                "key": "d6da0d7d3d6dd9d852b9bb1a92b2109dfe428a19",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.824Z"
+            },
+            "VariableID:2054:44377": {
+                "id": "VariableID:2054:44377",
+                "subscribed_id": "VariableID:da17f730f0c489e5ad545642e4812898ac8cccd9/10197:402",
+                "name": "Semantic/Color/Button/bg-important",
+                "key": "da17f730f0c489e5ad545642e4812898ac8cccd9",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.830Z"
+            },
+            "VariableID:74:6248": {
+                "id": "VariableID:74:6248",
+                "subscribed_id": "VariableID:de8730348bfc145c4fbd5c3e1a0b281fac8a9d3b/18778:13",
+                "name": "Semantic/Color/Status/Error",
+                "key": "de8730348bfc145c4fbd5c3e1a0b281fac8a9d3b",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.836Z"
+            },
+            "VariableID:18778:721": {
+                "id": "VariableID:18778:721",
+                "subscribed_id": "VariableID:df29ce0f4ad9d61bd68cab33e0a76a11e3711d75/18778:28",
+                "name": "Primitives/Color/Yellow/200",
+                "key": "df29ce0f4ad9d61bd68cab33e0a76a11e3711d75",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.844Z"
+            },
+            "VariableID:48:2999": {
+                "id": "VariableID:48:2999",
+                "subscribed_id": "VariableID:e4d715db04fa9e33881a68e898769478c51560d6/10205:595",
+                "name": "Semantic/Color/Content/icon-error",
+                "key": "e4d715db04fa9e33881a68e898769478c51560d6",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.851Z"
+            },
+            "VariableID:81:13743": {
+                "id": "VariableID:81:13743",
+                "subscribed_id": "VariableID:e6a6a95632d1907264636ef1f0e4ffe02720ad74/10197:346",
+                "name": "Semantic/Color/Border/active",
+                "key": "e6a6a95632d1907264636ef1f0e4ffe02720ad74",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.860Z"
+            },
+            "VariableID:5802:3396": {
+                "id": "VariableID:5802:3396",
+                "subscribed_id": "VariableID:e878883337d5512510ea695cf208359a3be8cbd7/10197:432",
+                "name": "Semantic/Spacing/spacing-04",
+                "key": "e878883337d5512510ea695cf208359a3be8cbd7",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.866Z"
+            },
+            "VariableID:7604:660": {
+                "id": "VariableID:7604:660",
+                "subscribed_id": "VariableID:e942ad39e75a2a504770773269743e3057935a75/18778:19",
+                "name": "Semantic/Color/Status/Offline-soft",
+                "key": "e942ad39e75a2a504770773269743e3057935a75",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.874Z"
+            },
+            "VariableID:7621:3435": {
+                "id": "VariableID:7621:3435",
+                "subscribed_id": "VariableID:eb875d0bf40ccb779af5539a6c82c34c9eb09938/10197:340",
+                "name": "Primitives/Color/Orange/50",
+                "key": "eb875d0bf40ccb779af5539a6c82c34c9eb09938",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.889Z"
+            },
+            "VariableID:18122:410": {
+                "id": "VariableID:18122:410",
+                "subscribed_id": "VariableID:ebaa6b3147fa90fbf247143b09443c20e322410e/18778:17",
+                "name": "Semantic/Color/Status/Active-heavy",
+                "key": "ebaa6b3147fa90fbf247143b09443c20e322410e",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.895Z"
+            },
+            "VariableID:48:2997": {
+                "id": "VariableID:48:2997",
+                "subscribed_id": "VariableID:f1e6c8a30634c054d71a0aaeb11edd0796443b77/10205:591",
+                "name": "Semantic/Color/Content/text-disabled",
+                "key": "f1e6c8a30634c054d71a0aaeb11edd0796443b77",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.900Z"
+            },
+            "VariableID:84:366": {
+                "id": "VariableID:84:366",
+                "subscribed_id": "VariableID:f3ae5d2f1103b3214890842906f1a834f5c0f3fc/10205:488",
+                "name": "Primitives/Color/Gray/700",
+                "key": "f3ae5d2f1103b3214890842906f1a834f5c0f3fc",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.907Z"
+            },
+            "VariableID:7348:31105": {
+                "id": "VariableID:7348:31105",
+                "subscribed_id": "VariableID:f68357d25a45f4c41e49068f7ddc0cb07c77b0d2/13201:0",
+                "name": "Semantic/Color/IconButton/bg-disabled",
+                "key": "f68357d25a45f4c41e49068f7ddc0cb07c77b0d2",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.912Z"
+            },
+            "VariableID:73:1937": {
+                "id": "VariableID:73:1937",
+                "subscribed_id": "VariableID:f81a1f2a2e3f057762c3cbc32b8b2449517ad438/10197:380",
+                "name": "Primitives/Dimension/dimension-06",
+                "key": "f81a1f2a2e3f057762c3cbc32b8b2449517ad438",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.919Z"
+            },
+            "VariableID:130:25079": {
+                "id": "VariableID:130:25079",
+                "subscribed_id": "VariableID:f8618f7f0fc432f07ca2c814fe7c74c8dce7da68/10205:539",
+                "name": "Semantic/Color/Surface/Invert",
+                "key": "f8618f7f0fc432f07ca2c814fe7c74c8dce7da68",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.927Z"
+            },
+            "VariableID:10182:6514": {
+                "id": "VariableID:10182:6514",
+                "subscribed_id": "VariableID:f89887730d75036d3aac0c65a4bac77ef9aa1ada/10197:406",
+                "name": "Primitives/Color/Gray/800",
+                "key": "f89887730d75036d3aac0c65a4bac77ef9aa1ada",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.933Z"
+            },
+            "VariableID:5672:1832": {
+                "id": "VariableID:5672:1832",
+                "subscribed_id": "VariableID:f988ebe084256611146c5c1f6e36f771a541b524/10197:452",
+                "name": "Semantic/Radius/radius-12",
+                "key": "f988ebe084256611146c5c1f6e36f771a541b524",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.938Z"
+            },
+            "VariableID:10182:7626": {
+                "id": "VariableID:10182:7626",
+                "subscribed_id": "VariableID:d15d2d65720840a90ac146368161c3124134a1c8/10205:590",
+                "name": "Primitives/Color/Gray/400",
+                "key": "d15d2d65720840a90ac146368161c3124134a1c8",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.768Z"
+            },
+            "VariableID:108:6221": {
+                "id": "VariableID:108:6221",
+                "subscribed_id": "VariableID:a45cc130da6711157eca8077f6b4f7d866077045/18778:9",
+                "name": "Semantic/Color/Status/Green",
+                "key": "a45cc130da6711157eca8077f6b4f7d866077045",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.658Z"
+            },
+            "VariableID:18778:706": {
+                "id": "VariableID:18778:706",
+                "subscribed_id": "VariableID:39626ab911a91d19fe3006da67dad88ad6170737/18778:29",
+                "name": "Semantic/Color/Status/Yellow-heavy",
+                "key": "39626ab911a91d19fe3006da67dad88ad6170737",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.319Z"
+            },
+            "VariableID:84:467": {
+                "id": "VariableID:84:467",
+                "subscribed_id": "VariableID:ad132a974fd33a0f95a5883754fd6434fc423a32/10205:559",
+                "name": "Semantic/Color/Content/icon-primary",
+                "key": "ad132a974fd33a0f95a5883754fd6434fc423a32",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.676Z"
+            },
+            "VariableID:5200:46521": {
+                "id": "VariableID:5200:46521",
+                "subscribed_id": "VariableID:ae0e0faad4508937f8ffa221a583aa91bf2e7079/10197:448",
+                "name": "Semantic/Spacing/spacing-03",
+                "key": "ae0e0faad4508937f8ffa221a583aa91bf2e7079",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "FLOAT",
+                "updatedAt": "2024-12-11T16:37:38.682Z"
+            },
+            "VariableID:139:1286": {
+                "id": "VariableID:139:1286",
+                "subscribed_id": "VariableID:ae4eb89bda8d18007cd95615c8630b56597be31f/10197:363",
+                "name": "Primitives/Color/Green/500",
+                "key": "ae4eb89bda8d18007cd95615c8630b56597be31f",
+                "variableCollectionId": "VariableCollectionId:5:635",
+                "resolvedDataType": "COLOR",
+                "updatedAt": "2024-12-11T16:37:38.688Z"
+            }
+        }
+    },
+    "i18n": null
+}
