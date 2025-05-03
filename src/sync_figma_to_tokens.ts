@@ -30,6 +30,8 @@ async function main() {
   const fileStylesArray = fileStyles.meta.styles
   const styleNodeIds = fileStylesArray.map((style) => style.node_id)
 
+  const styles = await api.getFileNodes(fileKey, styleNodeIds.join(`,`))
+
   const tokensFiles = tokenFilesFromLocalVariables(localVariables)
 
   let outputDir = 'tokens_new'
@@ -48,7 +50,7 @@ async function main() {
   fs.writeFileSync(`${outputDir}/tokens_local.json`, JSON.stringify(localVariables, null, 2))
   console.log(`Wrote tokens_local.json`)
 
-  fs.writeFileSync(`${outputDir}/tokens_styles.json`, JSON.stringify(styleNodeIds, null, 2))
+  fs.writeFileSync(`${outputDir}/tokens_styles.json`, JSON.stringify(styles, null, 2))
   console.log(`Wrote tokens_styles.json`)
 
   console.log(green(`✅ Tokens files have been written to the ${outputDir} directory`))

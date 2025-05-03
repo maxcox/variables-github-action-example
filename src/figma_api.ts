@@ -2,7 +2,8 @@ import axios from 'axios'
 import {
   GetPublishedVariablesResponse,
   GetLocalVariablesResponse,
-  GetFileStylesResponse
+  GetFileStylesResponse,
+  GetFileNodesResponse
 } from '@figma/rest-api-spec'
 
 export default class FigmaApi {
@@ -40,6 +41,18 @@ export default class FigmaApi {
   async getFileStyles(fileKey: string) {
     const resp = await axios.request<GetFileStylesResponse>({
       url: `${this.baseUrl}/v1/files/${fileKey}/styles`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
+  }
+
+  async getFileNodes(fileKey: string, nodeIds: string) {
+    const resp = await axios.request<GetFileNodesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/nodes?ids=${nodeIds}`,
       headers: {
         Accept: '*/*',
         'X-Figma-Token': this.token,
