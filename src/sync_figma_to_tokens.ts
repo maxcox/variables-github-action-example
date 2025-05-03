@@ -3,8 +3,6 @@ import * as fs from 'fs'
 
 import FigmaApi from './figma_api.js'
 
-import { tokenFilesFromLocalVariables } from './token_export.js'
-
 async function main() {
   if (!process.env.PERSONAL_ACCESS_TOKEN || !process.env.FILE_KEY) {
     throw new Error('PERSONAL_ACCESS_TOKEN and FILE_KEY environemnt variables are required')
@@ -18,10 +16,7 @@ async function main() {
   const fileStyles = await api.getFileStyles(fileKey)
   const fileStylesArray = fileStyles.meta.styles
   const styleNodeIds = fileStylesArray.map((style) => style.node_id)
-
   const styles = await api.getFileNodes(fileKey, styleNodeIds.join(`,`))
-
-  const tokensFiles = tokenFilesFromLocalVariables(localVariables)
 
   let outputDir = 'tokens_new'
   const outputArgIdx = process.argv.indexOf('--output')
