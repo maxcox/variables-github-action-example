@@ -3,18 +3,7 @@ import * as fs from 'fs'
 
 import FigmaApi from './figma_api.js'
 
-import { green } from './utils.js'
 import { tokenFilesFromLocalVariables } from './token_export.js'
-
-/**
- * Usage:
- *
- * // Defaults to writing to the tokens_new directory
- * npm run sync-figma-to-tokens
- *
- * // Writes to the specified directory
- * npm run sync-figma-to-tokens -- --output directory_name
- */
 
 async function main() {
   if (!process.env.PERSONAL_ACCESS_TOKEN || !process.env.FILE_KEY) {
@@ -53,7 +42,7 @@ async function main() {
   fs.writeFileSync(`${outputDir}/tokens_styles.json`, JSON.stringify(styles, null, 2))
   console.log(`Wrote tokens_styles.json`)
 
-  console.log(green(`✅ Tokens files have been written to the ${outputDir} directory`))
+  console.log(`✅ Tokens files have been written to the ${outputDir} directory`)
 }
 
 main()
