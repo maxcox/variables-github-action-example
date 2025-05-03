@@ -15,7 +15,6 @@ jobs:
       pull-requests: write
     steps:
       - name: Install Node.js
-        working-directory: 'scripts/designTokens'
         uses: actions/setup-node@v3
         with:
           node-version: '18.16.0'
@@ -25,7 +24,6 @@ jobs:
         run: npm install -g npm@9.5.1
 
       - name: Clone repo
-        working-directory: 'scripts/designTokens'
         uses: actions/checkout@v3
 
       - name: Install dependencies
