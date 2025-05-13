@@ -1,0 +1,64 @@
+import axios from 'axios'
+import {
+  GetPublishedVariablesResponse,
+  GetLocalVariablesResponse,
+  GetFileStylesResponse,
+  GetFileNodesResponse
+} from '@figma/rest-api-spec'
+
+export default class FigmaApi {
+  private baseUrl = 'https://api.figma.com'
+  private token: string
+
+  constructor(token: string) {
+    this.token = token
+  }
+
+  async getPublishedVariables(fileKey: string) {
+    const resp = await axios.request<GetPublishedVariablesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/variables/published`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
+  }
+
+  async getLocalVariables(fileKey: string) {
+    const resp = await axios.request<GetLocalVariablesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/variables/local`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
+  }
+
+  async getFileStyles(fileKey: string) {
+    const resp = await axios.request<GetFileStylesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/styles`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
+  }
+
+  async getFileNodes(fileKey: string, nodeIds: string) {
+    const resp = await axios.request<GetFileNodesResponse>({
+      url: `${this.baseUrl}/v1/files/${fileKey}/nodes?ids=${nodeIds}`,
+      headers: {
+        Accept: '*/*',
+        'X-Figma-Token': this.token,
+      },
+    })
+
+    return resp.data
+  }
+}
